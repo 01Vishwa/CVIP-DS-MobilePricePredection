@@ -1,1 +1,1 @@
-# CVIP-DS-MobilePricePredection
+# Customer Churn Analytics 
